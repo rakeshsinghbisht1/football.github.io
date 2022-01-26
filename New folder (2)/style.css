@@ -1,0 +1,197 @@
+*{ 
+
+
+
+    box-sizing: border-box;
+    list-style: none;
+    height: auto;
+    
+    
+    
+
+    
+}
+head{
+    margin: 0%;
+}
+header{
+margin: 0%;
+    padding: 50px;
+    text-align: center;
+    color: antiquewhite;
+    background: black;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 3px;
+    min-width: 100%;
+    height: auto; 
+    float: left;
+    overflow: hidden;
+    
+}
+
+
+
+nav{
+    background-color: burlywood;
+    padding: 20px;
+    text-align: justify;
+    margin: 0%;
+    overflow: hidden;
+}
+    nav a{
+        background-color: darkgray;
+        padding: 20px;
+        text-decoration: none;
+        border-radius: 20px;
+        margin: 5px 10px;
+        color: black;
+        float: left;
+    }
+    
+    section1{
+        text-align: center;
+        border: image 10px;
+        overflow: hidden;
+        display: inline;
+        margin: auto 10px;
+        
+        
+        background-color: black;
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+    }
+    section1 figure img{
+        padding: 25px;
+        display: inline;
+        border-radius: 30px;
+        background-color: yellow;
+        max-width: 100%;
+        height: auto;
+        display: inline;
+        overflow: hidden;
+        
+
+        
+
+    }
+    .responsive {
+        max-width: 100%;
+        height: auto;
+        width: 200px;
+
+
+    }
+    section1 p{
+        
+            position: relative;
+            font-family: sans-serif;
+            text-transform: uppercase;
+            font-size: medium;
+            letter-spacing: 1px;
+            overflow: hidden;
+            background: linear-gradient(90deg, #000, rgb(223, 175, 175), #000);
+            background-repeat: no-repeat;
+            background-size: 90%;
+            animation: animate 8s linear infinite;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: rgba(255, 255, 255, 0);
+          }
+          
+          @keyframes animate {
+            0% {
+              background-position: -500%;
+            }
+            100% {
+              background-position: 500%;
+            }
+          }
+        
+    
+    
+    
+    section1 figure figcaption{
+        text-size-adjust: 60%;
+        font-size: larger;
+        
+
+
+
+    }
+    h2{
+        background-color: chocolate;
+        color: cornsilk;
+        font-size: xx-large;
+        text-align: center;
+        
+    }
+    section div a{
+        text-align: left;
+        background-color: brown;
+        text-decoration: chocolate;
+
+    }
+    section p{
+        background-color: black;
+        font-size: larger;
+        font-weight: 800;
+        animation: blink;
+        color: blanchedalmond;
+        letter-spacing: 1px;
+        float: right;
+        overflow: hidden;
+    }
+    * { box-sizing: border-box; }
+
+section div { font-family: sans-serif; }
+
+
+
+.carousel-cell {
+  width: 66%;
+  height: 200px;
+  margin-right: 10px;
+  
+  border-radius: 5px;
+  
+}
+.carousel-cell img{
+    
+    width: 400px;
+    height: 100%;
+    max-width: 100%;
+}
+.responsive{
+    
+    height: auto;
+    max-width: 100%;
+    width: 500px;
+}
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+        
+        
+    
